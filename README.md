@@ -1,5 +1,5 @@
 # Logsgpt
-Loggpt is an advanced data streaming project that leverages Windows logs for data ingestion.
+Logsgpt is an advanced data streaming project that leverages Windows logs for data ingestion.
 Utilizing Winlogbeat and Logstash, the project efficiently ingests data and stores it in Elasticsearch.
 For data visualization, Kibana is used, providing comprehensive insights into the logs.
 The project incorporates Hugging Face's BGE Large embedding modelto embed logs, which are then
